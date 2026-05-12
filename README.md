@@ -2,7 +2,7 @@
 
 ---
 
-## Setup Instructions
+## Setup Aplikasi
 
 ### 1. Buka Terminal / Console
 
