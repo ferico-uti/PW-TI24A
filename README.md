@@ -11,6 +11,7 @@
    ```bash
    git clone https://github.com/ferico-uti/PW-TI24A.git
    cd PW-TI24A
+   code .
    ```
 ### 3. Project Setup
 
